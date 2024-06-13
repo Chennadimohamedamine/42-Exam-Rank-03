@@ -1,5 +1,4 @@
-#include <unistd.h>
-#include <stdlib.h>
+#include "get_next_line.h"
 
 //  cc -Wall -Wextra -Werror -D BUFFER_SIZE get_next_line.c
 
